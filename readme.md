@@ -35,5 +35,5 @@ To run ListenApp locally or on your server, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/Byornsielous/Music.git
+   git clone https://github.com/Byronsielous/Music.git
    cd Music
